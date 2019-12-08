@@ -1,0 +1,9 @@
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\bin\Debug\Entidades.dll
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\bin\Debug\Entidades.pdb
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\obj\Debug\EntidadesTest.csprojAssemblyReference.cache
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\obj\Debug\EntidadesTest.csproj.CopyComplete
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\Macu\source\repos\estacionamiento\EntidadesTest\obj\Debug\EntidadesTest.pdb

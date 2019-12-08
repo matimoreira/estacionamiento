@@ -1,0 +1,16 @@
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Macu\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Admin\source\repos\estacionamiento\estacionamiento\obj\Debug\netstandard2.0\Entidades.pdb
